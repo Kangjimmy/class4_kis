@@ -26,6 +26,7 @@
 <body>
 <div>
 	<a href="http://sist.co.kr">쌍용!!</a>
+	<a href="https://www.naver.com">새로운기능 추가</a>
 </div>
 </body>
 </html>
